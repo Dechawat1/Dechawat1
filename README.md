@@ -6,6 +6,7 @@
 
 * 🌍 อาศัยอยู่ที่ samutsakhon
 * ✉️ คุณสามารถติดต่อฉันได้ที่ [dechawat.kl@hotmail.com](mailto:dechawat.kl@hotmail.com)
+* Portfolio https://dechawat-portfolio.vercel.app/?fbclid=IwY2xjawKOq9pleHRuA2FlbQIxMQABHtxS38fRugfBGZGWt5ZSiefMZdJOhal4mHWN172kP3Ax-8BWWZK1QX7se6MF_aem_izAMW6I5SF2pLoNaR5Uyyw
 
 ### ทักษะ
 
