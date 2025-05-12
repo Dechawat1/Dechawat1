@@ -17,23 +17,28 @@
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+<p> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs" /> 
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> 
 </p>
 
 **Database & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> 
 </p>
 
 ---
