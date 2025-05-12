@@ -38,26 +38,9 @@
 
 ---
 
-### 📱 โปรเจกต์ที่น่าสนใจ
-
-#### 📌 Time Management App (Flutter + Firebase)
-แอปพลิเคชันจัดการเวลา สำหรับนักศึกษา  
-- ✅ ดูตารางเรียน  
-- 📝 จดโน้ต & Assignment  
-- 📅 จัดกิจกรรมตาม Calendar  
-🔗 [ดู UI Design ใน Figma](https://www.figma.com/design/8COENrQvk4Ew621e7IhlEP/Untitled?node-id=0-1&p=f&t=jnCUv4UFpQHaWYnD-0)
-
-#### 📦 ecommerce-api
-API สำหรับระบบร้านค้าออนไลน์ (Express + Prisma + PostgreSQL)  
-🔗 [GitHub Repo](https://github.com/Dechawat1/ecommerce-api)
-
----
 
 ### 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dechawat1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dechawat1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
