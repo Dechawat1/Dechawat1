@@ -1,17 +1,75 @@
-สวัสดี ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)ผมชื่อเดชาวัฒน์
-=================================================================================================================================
+<h1 align="center">สวัสดีครับ! ผมชื่อเดชาวัฒน์ 👋</h1>
 
-นักศึกษาจบใหม่ ที่มีความสนใจด้านการเขียนโค้ตและกำลังพัฒนาตัวเองอยู่เสมอ
---------------------------------------------
+<p align="center">🎓 นักศึกษาจบใหม่ ที่มีความสนใจด้านการเขียนโค้ด และกำลังพัฒนาตัวเองอยู่เสมอ</p>
 
-* 🌍 อาศัยอยู่ที่ samutsakhon
-* ✉️ คุณสามารถติดต่อฉันได้ที่ [dechawat.kl@hotmail.com](mailto:dechawat.kl@hotmail.com)
-* Portfolio https://dechawat-portfolio.vercel.app/?fbclid=IwY2xjawKOq9pleHRuA2FlbQIxMQABHtxS38fRugfBGZGWt5ZSiefMZdJOhal4mHWN172kP3Ax-8BWWZK1QX7se6MF_aem_izAMW6I5SF2pLoNaR5Uyyw
+---
 
-### ทักษะ
+### 🧑‍💻 เกี่ยวกับผม
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+- 🌍 พักอยู่ที่: **Samut Sakhon, Thailand**
+- 📬 Email: [dechawat.kl@hotmail.com](mailto:dechawat.kl@hotmail.com)
+- 🌐 Portfolio: [dechawat-portfolio.vercel.app](https://dechawat-portfolio.vercel.app)
+- 💬 สนใจพัฒนา Web, Mobile และ Backend
+- 🚀 โฟกัสการเรียนรู้: Full Stack Developer
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
 </p>
 
+**Database & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📱 โปรเจกต์ที่น่าสนใจ
+
+#### 📌 Time Management App (Flutter + Firebase)
+แอปพลิเคชันจัดการเวลา สำหรับนักศึกษา  
+- ✅ ดูตารางเรียน  
+- 📝 จดโน้ต & Assignment  
+- 📅 จัดกิจกรรมตาม Calendar  
+🔗 [ดู UI Design ใน Figma](https://www.figma.com/design/8COENrQvk4Ew621e7IhlEP/Untitled?node-id=0-1&p=f&t=jnCUv4UFpQHaWYnD-0)
+
+#### 📦 ecommerce-api
+API สำหรับระบบร้านค้าออนไลน์ (Express + Prisma + PostgreSQL)  
+🔗 [GitHub Repo](https://github.com/Dechawat1/ecommerce-api)
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dechawat1&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dechawat1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 ติดต่อ
+
+- Facebook: [icedechawat.net](https://www.facebook.com/icedechawat.net)
+- Email: dechawat.kl@hotmail.com
+
+---
+
+> 🙏 ขอบคุณที่แวะมาดู GitHub ของผมนะครับ!
 
