@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" /> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
 </p>
 
 **Database & Tools**
